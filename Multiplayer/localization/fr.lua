@@ -47,7 +47,7 @@ return {
 			attrition_desc = "Chaque manche de boss est une compétition entre joueurs ou le joueur avec le score le plus bas perd une vie.",
 			draft_name = "Plan",
 			draft_desc = "Chaque joueur joue 3 manches normales, puis joue une mise ou chaque manche le joueur avec le meilleur score gagne.",
-			royale_name = "Battle Royale",
+			royale_name = "Chacun pour soi",
 			royale_desc = "Attrition, mais jusqu'à 8 joueurs et chaque joueur n'a qu'une seule vie.",
 			vanilla_plus_name = "Vanilla+",
 			vp_desc = "Le premier à échouer une manche perd la partie, pas de mises JcJ.",
